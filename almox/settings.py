@@ -27,6 +27,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'almox.base',
+    'almox.produto',
 ]
 
 MIDDLEWARE = [
